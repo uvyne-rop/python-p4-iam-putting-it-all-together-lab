@@ -42,7 +42,8 @@ Flask API backend and a React frontend. To get set up, run:
 ```console
 $ pipenv install && pipenv shell
 $ npm install --prefix client
-$ cd server
+$ 
+
 ```
 
 You can work on this lab by running the tests with `pytest`. It will also be
